@@ -4,7 +4,8 @@
 Repository containing portfolio of data science projects completed by Nikolai Shtukin during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Practicum</a><br>
 Presented in the form of Jupyter Notebooks and readme markdown files. <br>
 
-    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
+<br>
+    <a href="https://github.com/NSDSGit/Yandex-Practicum-DS/blob/main/Yandex-DS.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
 </p><br>
 
 <table width=100% valign=top >
